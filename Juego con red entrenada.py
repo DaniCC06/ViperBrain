@@ -1,7 +1,7 @@
 import json, numpy as np, pygame, random
 import sys
 
-
+# Clase para la red
 class RedNeuronal:
     def __init__(self, tam_entrada, tam_oculto, tam_salida):
         self.tam_entrada = tam_entrada
