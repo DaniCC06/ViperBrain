@@ -1,3 +1,4 @@
+# ViperBrain:
 # 🐍 Snake AI with Genetic Algorithms (NumPy + Pygame)
 
 ## Overview
