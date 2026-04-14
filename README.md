@@ -8,6 +8,7 @@ End-to-end AI project implementing a genetic algorithm to train an autonomous ag
 The project focuses on evolutionary computation, optimization, and emergent behavior without relying on high-level machine learning frameworks such as TensorFlow or PyTorch.
 
 This project was originally developed during high school, reflecting a (very) early exploration of AI and evolutionary algorithms. 
+
 ---
 
 ## Features
