@@ -152,7 +152,7 @@ pip install numpy pygame
 Run the script:
 
 ```bash
-python main.py
+python ViperBrain.py
 ```
 
 The system will:
